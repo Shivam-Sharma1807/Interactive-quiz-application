@@ -24,3 +24,9 @@ A timer to display the remaining time for the quiz.
 
 This project is ideal for learning front-end development concepts such as DOM manipulation, event handling, and dynamic content rendering using JavaScript.
 
+OUTPUTS :
+
+![Image](https://github.com/user-attachments/assets/8a118759-fdf2-4fde-8867-e1878683f902)
+![Image](https://github.com/user-attachments/assets/0418f40c-8788-4dd2-8a22-891baaa97694)
+![Image](https://github.com/user-attachments/assets/594d0504-6556-4e20-907d-8cdc8874abfb)
+
